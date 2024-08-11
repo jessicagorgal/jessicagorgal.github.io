@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/jessi/Downloads/workspace-inicial/workspace-inicial/img"
+		},
+		{
+			"path": "C:/Users/jessi/Downloads/workspace-inicial/workspace-inicial/js"
+		},
+		{
+			"path": "C:/Users/jessi/Downloads/workspace-inicial/workspace-inicial/webfonts"
+		},
+		{
+			"path": "C:/Users/jessi/Downloads/workspace-inicial/workspace-inicial/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jessicagorgal.github.io"
+	}
+}
